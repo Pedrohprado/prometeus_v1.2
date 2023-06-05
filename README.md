@@ -19,4 +19,5 @@
         <td>NodeJS/Node-Red</td>
         <td>MySQL</td>
         <td>Python</td>
+    </tr>
 </table>
