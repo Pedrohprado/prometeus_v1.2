@@ -17,6 +17,7 @@
     <tr>
         <td>C++(.ino)</td>
         <td>NodeJS/Node-Red</td>
+        <td>MQTT</td>
         <td>MySQL</td>
         <td>Python</td>
     </tr>
