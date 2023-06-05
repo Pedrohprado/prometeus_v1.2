@@ -14,8 +14,9 @@
 <h4>Techs utilizadas:</h4>
 
 <table>
-    <tr>C++(.ino)</tr>
-    <tr>NodeJS/Node-Red</tr>
-    <tr>MySQL</tr>
-    <tr>Python</tr>
+    <tr>
+        <td>C++(.ino)</td>
+        <td>NodeJS/Node-Red</td>
+        <td>MySQL</td>
+        <td>Python</td>
 </table>
